@@ -1,6 +1,7 @@
 # streamlit_app.py
 import streamlit as st
 import pickle
+# import pypickle as pickle
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 # import pandas as pd
